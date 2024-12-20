@@ -1,0 +1,61 @@
+﻿cateId,productId,productName,price,amount
+C001,C001-1,Imation 4.7GB DVD+RW Media 120 Minute 1 Pack,85.00,103
+C001,C001-22,Verbatim 4.7GB 16X DVD-R Jewel 10 Pack,210.00,51
+C001,C001-28,"Brother ""LC-47C"" Cyan Ink Cartridge",390.00,123
+C001,C001-30,Thermaltake PSU 20-to-24 Pin Adapter Cable,350.00,96
+C001,C001-31,"Cooler Master 18"" Red Rounded UV Floppy Cable",310.00,156
+C001,C001-32,"Sakura ""Identi"" Blue Non-Erasable Permanent CD Marker",38.00,45
+C001,C001-34,Verbatim 4.7GB 4X DVD+RW 5-Pack,190.00,120
+C001,C001-35,Imation 4.7GB DVD-RW Media 120 Minute 1 Pack,270.00,54
+C001,C001-38,Imation 8.5GB 2.4X DVD+R DL Media 240 Minute 1 Pack,265.00,75
+C001,C001-40,"Thermaltake XRound 18"" UV Blue S-ATA 150 Cable",180.00,65
+C001,C001-8,Verbatim 4.7GB 16X DVD+R 10 Pack,150.00,98
+C002,C002-10,"DGET ""LC321-17"" Ivory/Blue ATX Case w/ 420w","1,020.00",25
+C002,C002-39,"DGET ""LC321-13"" Black ATX Case","1,020.00",20
+C002,C002-5,"Enermax ""Pandora 185"" Mid Tower Case Model ""ECA3061""","1,220.00",30
+C002,C002-6,"DGET ""LC-313"" Black/Silver ATX Case w/ 450w","1,290.00",29
+C003,C003-12,Intel Celeron D 336 2.80GHz 533MHz FSB 256KB L2 Cache,"1,420.00",25
+C003,C003-58,AMD Athlon 64 X2 4200+ 2.2GHz 2x 512KB L2 Cache 2000MHz HT,"3,180.00",18
+C003,C003-7,AMD Athlon 64 X2 4800+ 2.5GHz 2x 512KB L2 Cache 2000MHz HT,"4,380.00",49
+C002,C003-9,AMD Athlon 64 3000+ 1.8GHz 2000MHz HT 512KB L2 Cache,"1,560.00",20
+C004,C004-14,Seagate 320GB ES Series 16MB Cache S-ATA II NCQ  Hard Disk Drive,"3,460.00",42
+C004,C004-15,Seagate 250GB ES Series 8MB Cache S-ATA II NCQ Hard Disk Drive,"2,690.00",12
+C004,C004-16,Western Digital 160GB 7200RPM 8MB Cache S-ATA II  Hard Disk Drive,"1,915.00",30
+C004,C004-26,Seagate 250GB Barracuda 7200.10 8MB Cache S-ATA II  Hard Disk Drive,"2,450.00",18
+C005,C005-18,"ASUS ""E616A3/A6"" Dual Panel 16x DVD-ROM Drive",630.00,45
+C005,C005-19,Lite-On LH-20A3P 20x20 DVD Writer w/ 8x8 DL 12x DVD-RAM,"1,165.00",80
+C005,C005-20,LG GSA-H44L 18x18 DVD Writer w/ 8x8 DL 12x DVD-RAM LightScribe,"1,340.00",15
+C005,C005-57,Lite-On LH-20A1PX Black External 20x20 DVD Writer USB2.0,"2,440.00",15
+C006,C006-2,"BenQ ""FP91G+"" 19"" Silver/Black LCD Monitor","7,680.00",35
+C006,C006-24,"Philips ""190CW7CS"" 19"" Wide Screen LCD Monitor","7,420.00",20
+C006,C006-25,"Samsung SyncMaster ""940BW"" 19"" Silver/Black LCD Monitor","7,420.00",39
+C006,C006-41,"Samsung SyncMaster ""793MG-T/T"" 17"" DynaFlat CRT Monitor","7,940.00",40
+C006,C006-42,"Philips ""107S77"" 17"" Flat Screen Silver/Black CRT Monitor","3,620.00",15
+C006,C006-43,"Philips ""190CW7CS"" 19"" Wide Screen LCD Monitor","7,420.00",25
+C006,C006-44,"LG ""L194WT"" 19"" Wide Screen Flatron LCD Monitor","8,050.00",32
+C007,C007-13,"Brother ""HL-2040"" Laser Printer 20ppm 2400x600 dpi","3,090.00",10
+C007,C007-17,"Lexmark ""Z645"" Color Inkjet Printer 17/9 ppm 4800x1200 dpi","1,240.00",30
+C007,C007-33,"ASUS ""A9250/TD/128"" Radeon 9250 128MB DDR 64-bit","1,070.00",27
+C007,C007-45,"Brother ""HL-6050D"" Laser Printer 24ppm 1200x1200 dpi","14,900.00",14
+C008,C008-46,XFX GeForce FX5200 128MB DDR 64-bit TV-Out 8xAGP,"1,280.00",50
+C008,C008-47,ASUS EN7300GS/HTD/256 GeForce 7300GS 256MB GDDR2 64-bit,"2,190.00",32
+C008,C008-48,Spark GeForce 7300GT Maxx 256MB DDR3 128-bit,"2,440.00",21
+C008,C008-56,Spark GeForce 7600GT 256MB DDR3 128-bit TV-Out DVI 8xAGP,"4,780.00",53
+C009,C009-49,UMAX AstraPix PC230 WebCam w/ Built-in MIC USB,480.00,60
+C009,C009-52,Creative Live! Cam Notebook Pro Webcam USB,"1,890.00",45
+C009,C009-55,Creative Webcam Live! Motion White USB,"4,990.00",40
+C010,C010-11,Microsoft Natural MultiMedia 102 Keys Keyboard PS2,"1,040.00",40
+C010,C010-21,Logitech NewTouch Keyboard 100 PS/2,230.00,70
+C010,C010-4,Logitech Media Keyboard Elite USB/PS2,"1,120.00",58
+C010,C010-59,Logitech EX 111 Cordless Desktop Keyboard & Mouse USB/PS2,"1,220.00",67
+C010,C010-60,Microsoft Wireless Laser™ Desktop 6000 Keyboard & Mouse w/ Tilt,"3,890.00",36
+C011,C011-23,Intel Core2 Duo E6320 1.86GHz 1066FSB 4MB L2 Cache,"5,940.00",45
+C011,C011-27,"DFI ""nF4 SLI Infinity"" nForce4 SLI Chipset","4,300.00",23
+C011,C011-29,ASRock ALiveNF6G-VSTA nVidia GeForce 6100 Chipset,"2,020.00",24
+C011,C011-36,"ASUS ""Crosshair"" nVidia nForce 590 SLI MCP Chipset","9,490.00",26
+C011,C011-37,"ASUS ""M2N-SLI Deluxe"" nVidia nForce 570 SLI MCP Chipset","4,880.00",39
+C012,C012-3,Microsoft Wired Desktop 500 Black Keyboard & Optical Mouse,630.00,78
+C012,C012-50,Logitech Wheel Mouse Optical Ver.2 PS/2,245.00,250
+C012,C012-51,Logitech Wheel Mouse Optical White USB/PS2,320.00,140
+C012,C012-53,Microsoft Wireless Notebook Optical Mouse 4000 USB,"1,520.00",100
+C012,C012-54,Logitech MX610 Laser Cordless Mouse Rechargeable USB/PS2,"2,470.00",60
